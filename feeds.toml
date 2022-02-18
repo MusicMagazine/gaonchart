@@ -1,0 +1,70 @@
+[notice]
+title = "가온차트 ─ 공지사항"
+url = "http://www.gaonchart.co.kr/main/section/notice/list.gaon"
+entrySelector = "div.boardlist table tbody tr:not(:first-child)"
+titleSelector = "td.al"
+linkSelector = "td.al a"
+contentSelector = "td.sn:nth-child(3)"
+
+[opinion]
+title = "가온차트 ─ 칼럼"
+url = "http://www.gaonchart.co.kr/main/section/article/list.gaon?sgenre=opinion"
+entrySelector = "ul.news li"
+titleSelector = "h4 > div div:nth-child(1)"
+linkSelector = "a"
+contentSelector = "a dl dd"
+imageSelector = "a dl dt img"
+
+[news]
+title = "가온차트 ─ 뉴스"
+url = "http://www.gaonchart.co.kr/main/section/article/list.gaon?sgenre=news"
+entrySelector = "ul.news li"
+titleSelector = "h4 > div div:nth-child(1)"
+linkSelector = "a"
+contentSelector = "a dl dd"
+imageSelector = "a dl dt img"
+
+[news_album]
+title = "가온차트 ─ 앨범"
+url = "http://www.gaonchart.co.kr/main/section/article/list.gaon?sgenre=album"
+entrySelector = "ul.news li"
+titleSelector = "h4 > div div:nth-child(1)"
+linkSelector = "a"
+contentSelector = "a dl dd"
+imageSelector = "a dl dt img"
+
+[news_kpop]
+title = "가온차트 ─ K-pop now"
+url = "http://www.gaonchart.co.kr/main/section/article/list.gaon?sgenre=kpop"
+entrySelector = "ul.news li"
+titleSelector = "h4 > div div:nth-child(1)"
+linkSelector = "a"
+contentSelector = "a dl dd"
+imageSelector = "a dl dt img"
+
+[news_perform]
+title = "가온차트 ─ Perform"
+url = "http://www.gaonchart.co.kr/main/section/article/list.gaon?sgenre=perform"
+entrySelector = "ul.news li"
+titleSelector = "h4 > div div:nth-child(1)"
+linkSelector = "a"
+contentSelector = "a dl dd"
+imageSelector = "a dl dt img"
+
+[news_issue]
+title = "가온차트 ─ Issue"
+url = "http://www.gaonchart.co.kr/main/section/article/list.gaon?sgenre=issue"
+entrySelector = "ul.news li"
+titleSelector = "h4 > div div:nth-child(1)"
+linkSelector = "a"
+contentSelector = "a dl dd"
+imageSelector = "a dl dt img"
+
+[certification]
+title = "가온차트 ─ 인증"
+url = "http://www.gaonchart.co.kr/main/section/certification/list.gaon"
+entrySelector = "div.chart tbody tr"
+titleSelector = "td.title"
+linkSelector = "td:nth-child(2) > img"
+contentSelector = "td:nth-child(4)"
+imageSelector = "td:nth-child(1) > img"
