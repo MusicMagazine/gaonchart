@@ -4,9 +4,17 @@
         <title>가온차트 ─ 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 02:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 03:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음원시장 동계올림픽 영향으로 하락 - 2월 리뷰(2022)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20481&amp;sgenre=opinion&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20481&amp;sgenre=opinion&amp;search_str=</guid>
+            <pubDate>Tue, 15 Mar 2022 03:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 2월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전년 동기 대비 8.4% 감소한 것으로 나타났습니다. 2월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 전달에 비해 24.9% 감소, 2021년 2월에 비해서는 6.9% 증가한 것으로 조사되었습니다.  카카오 엔터가 400위 기준 2월 음원시장에서 유통 점유율 1위를 기록했습니다. 주요 유통 음원으로는 아이브의 ′EL...<span>김진우 수석연구위원 <em>|</em> 2022-03-15</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202203/F58987FEA492A33A40D049994F29B798.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빅뱅 컴백 음원시장 발동 걸릴까?]]></title>
             <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20388&amp;sgenre=opinion&amp;search_str=</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 18 Feb 2022 22:59:33 GMT</pubDate>
             <content:encoded><![CDATA[팝 음원이 최근 차트에서 강세를 보이고 있습니다. 특히 저스틴 비버나, 에드시런 같은 국내에서 많은 사랑을 받고 있는 가수들의 음원이 선전하고 있습니다. 그러나 이들의 노래는 국내 차트에서 최정상권에 단골로 오르는 곡들임에도 불구하고, 국내 유명 가수의 노래처럼 음원 출시와 함께 두각을 나타내지 못하고 거의 항상 역주행을 통해 상위권에 오른다는 공통점이 있습니다.  오늘 칼럼에서는 그 이유에 대해 알아...<span>김진우 수석연구위원 <em>|</em> 2021-10-25</span>]]></content:encoded>
             <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202110/8E60B3FDAEF6108D773231139DAC5B78.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[피지컬 앨범 이미 작년 판매량 넘어서 5천만 장 눈앞 - 9월 리뷰 (2021)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19649&amp;sgenre=opinion&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19649&amp;sgenre=opinion&amp;search_str=</guid>
-            <pubDate>Fri, 18 Feb 2022 22:59:33 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 9월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월대비 6.2% 감소, 전년 동기 대비 8% 감소, 2019년 동기 대비 26.2% 감소한 것으로 나타났습니다.  9월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 전달에 비해 17.8% 증가,  지난 2020년 9월에 비해서는 111.7% 증가한 것으로 조사되었습니다. 1월~9월까지 ...<span>김진우 연구위원 <em>|</em> 2021-10-07</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202110/04B81B18AC030211D9970D87E9C08123.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
