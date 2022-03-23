@@ -4,9 +4,17 @@
         <title>가온차트 ─ 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 02:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 03:26:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 CD 시장 17년 만에 반등 왜?]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20525&amp;sgenre=opinion&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20525&amp;sgenre=opinion&amp;search_str=</guid>
+            <pubDate>Wed, 23 Mar 2022 03:25:28 GMT</pubDate>
+            <content:encoded><![CDATA[작년 미국에서 지난 2004년 이후 17년 만에 CD 판매량이 다시 증가한 것으로 나타났습니다. 미국 시장에서 최근까지 LP/EP 시장은 꾸준히 성장하고 있었지만 온라인 스트리밍이 대세인 요즘, 이미 쇠퇴해 가던 CD 시장이 반등한 것은 그 누구도 예상치 못한 결과였습니다. 이번 칼럼에서는 미국의 CD 시장이 되살아나고 있는 현상에 대해 살펴보도록 하겠습니다.  20...<span>김진우 수석연구위원 <em>|</em> 2022-03-23</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202203/5EC65172A5054A35014F3BBAB5AB061E.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[음원시장 동계올림픽 영향으로 하락 - 2월 리뷰(2022)]]></title>
             <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20481&amp;sgenre=opinion&amp;search_str=</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 18 Feb 2022 22:59:33 GMT</pubDate>
             <content:encoded><![CDATA[2021년 10월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월대비 1.1% 감소, 전년 동기 대비 13.5% 감소, 2019년 동기 대비 28.6% 감소한 것으로 나타났습니다.  10월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 전달에 비해 5.1% 증가,  지난 2020년 10월에 비해서는 2.3% 감소한 것으로 조사되었습니다. 1월~10월까지 누적 TOP400기준 판매...<span>김진우 연구위원 <em>|</em> 2021-11-12</span>]]></content:encoded>
             <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202111/F0B21F42AD1304D63D762E8C7B2E5C57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팝 음원은 왜 죄다 역주행일까?]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19740&amp;sgenre=opinion&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19740&amp;sgenre=opinion&amp;search_str=</guid>
-            <pubDate>Fri, 18 Feb 2022 22:59:33 GMT</pubDate>
-            <content:encoded><![CDATA[팝 음원이 최근 차트에서 강세를 보이고 있습니다. 특히 저스틴 비버나, 에드시런 같은 국내에서 많은 사랑을 받고 있는 가수들의 음원이 선전하고 있습니다. 그러나 이들의 노래는 국내 차트에서 최정상권에 단골로 오르는 곡들임에도 불구하고, 국내 유명 가수의 노래처럼 음원 출시와 함께 두각을 나타내지 못하고 거의 항상 역주행을 통해 상위권에 오른다는 공통점이 있습니다.  오늘 칼럼에서는 그 이유에 대해 알아...<span>김진우 수석연구위원 <em>|</em> 2021-10-25</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202110/8E60B3FDAEF6108D773231139DAC5B78.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
