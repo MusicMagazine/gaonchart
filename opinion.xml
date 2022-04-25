@@ -4,9 +4,17 @@
         <title>가온차트 ─ 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 00:56:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 02:52:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IVE 리뷰]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20690&amp;sgenre=opinion&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20690&amp;sgenre=opinion&amp;search_str=</guid>
+            <pubDate>Mon, 25 Apr 2022 02:51:53 GMT</pubDate>
+            <content:encoded><![CDATA[최근 컴백한 걸그룹 아이브가 음원차트에서 두각을 나타내고 있습니다. 신곡 ′LOVE DIVE′는 16주차 주간차트 3위에 올랐고, 전작인 ′ELEVEN′은 발매 후 5개월이 지난 지금까지도 10위권대 초반의 성적을 유지하고 있습니다. 앨범 판매량 역시 지난 앨범  대비 큰 폭의 성장을 보여주고 있는데, 이번 카드 뉴스에서는 아이브와 관련한 데이터 리뷰를 통해 이들이 어느 정도 성장...<span>김진우 수석연구위원 <em>|</em> 2022-04-25</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202204/0B4B591EF6699A59D3A9CE58F0C34281.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1분기 앨범 판매량 전년 동기 대비 4백4십만 장 많아 - 3월 리뷰(2022)]]></title>
             <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20617&amp;sgenre=opinion&amp;search_str=</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 18 Feb 2022 22:59:33 GMT</pubDate>
             <content:encoded><![CDATA[2021년 11월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월대비 3.9% 감소, 전년 동기 대비 13.5% 감소, 2019년 동기 대비 31.1% 감소한 것으로 나타났습니다.  11월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 전달에 비해 20.6% 감소, 2020년 11월에 비해서도 14.1% 감소한 것으로 조사되었습니다. 1월~11월까지 누적 TOP400기준 판매량은...<span>김진우 수석연구위원 <em>|</em> 2021-12-10</span>]]></content:encoded>
             <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/6A375AAA7E7D92923B0EBE562D1C5502.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 팝시장 소비 현황 리뷰]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19943&amp;sgenre=opinion&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=19943&amp;sgenre=opinion&amp;search_str=</guid>
-            <pubDate>Fri, 18 Feb 2022 22:59:33 GMT</pubDate>
-            <content:encoded><![CDATA[최근 방탄소년단이 ′AMA′ 3관왕 오르고  내년에 있을 ′그래미 어워드′에서는 2년 연속 ′베스트 팝 듀오/그룹 퍼포먼스′ 부문 후보에 노미네이트되는 등 KPOP이 미국 시장에서 선전하고 있습니다. 이 때문에 국내 음악 소비자들도 미국 팝시장에 대한 관심이 그 어느 때보다 높아졌는데요. 오늘 칼럼에서는 국내 팝 음원의 소비 현황에 대해 살펴보도록 하겠습니다.  팝(국외) 가온지수400 추이를 살펴보면...<span>김진우 수석연구위원 <em>|</em> 2021-11-29</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202111/98E7B869A589CA2C71F46A1B45E59C39.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
