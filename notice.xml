@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.gaonchart.co.kr/main/section/notice/list.gaon</id>
     <title>가온차트 ─ 공지사항</title>
-    <updated>2022-05-04T09:18:38.853Z</updated>
+    <updated>2022-05-04T10:16:55.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.gaonchart.co.kr/images/img/gaon.gif</icon>
+    <entry>
+        <title type="html"><![CDATA[[ 2022년 5월 4일 공지사항 ]]]></title>
+        <id>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=153&amp;pageNo=1&amp;condition=&amp;searchStr</id>
+        <link href="http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=153&amp;pageNo=1&amp;condition=&amp;searchStr"/>
+        <updated>2022-05-04T10:16:04.721Z</updated>
+        <content type="html"><![CDATA[2022-05-04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ 2022년 5월 3일 공지사항 ]]]></title>
         <id>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=150&amp;pageNo=1&amp;condition=&amp;searchStr</id>
@@ -67,12 +74,5 @@
         <link href="http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=142&amp;pageNo=1&amp;condition=&amp;searchStr"/>
         <updated>2022-02-18T22:59:23.954Z</updated>
         <content type="html"><![CDATA[2022-01-12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ 2022년 1월 3일 공지사항 ]]]></title>
-        <id>http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=140&amp;pageNo=1&amp;condition=&amp;searchStr</id>
-        <link href="http://www.gaonchart.co.kr/main/section/notice/view.gaon?idx=140&amp;pageNo=1&amp;condition=&amp;searchStr"/>
-        <updated>2022-02-18T22:59:23.954Z</updated>
-        <content type="html"><![CDATA[2022-01-03]]></content>
     </entry>
 </feed>
