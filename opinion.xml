@@ -4,9 +4,17 @@
         <title>가온차트 ─ 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 17:04:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가온지수 2달 연속 상승 - 4월 리뷰(2022)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20801&amp;sgenre=opinion&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20801&amp;sgenre=opinion&amp;search_str=</guid>
+            <pubDate>Sun, 22 May 2022 17:03:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 4월 TOP400 가수별 가온지수 점유율 조사에서 아이유가 400위권 내 총 22곡을 올려놓아 점유율 5.7%를 기록했습니다.    2022년 4월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월 보다 11% 증가해 2개월 연속 상승세를 유지하고 있는 것으로 나타났습니다.  4월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 전달에 비해 38.4%, 작년 4월 대비 12...<span>김진우 수석연구위원 <em>|</em> 2022-05-17</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202205/58F1A160FD8B845E221593936DE57458.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[IVE 리뷰]]></title>
             <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20690&amp;sgenre=opinion&amp;search_str=</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 18 Feb 2022 22:59:33 GMT</pubDate>
             <content:encoded><![CDATA[위 그래프는 2013년부터 2021년까지 앨범(Physical) 판매량 400을 나타낸 것입니다. (1위부터 400위까지의 판매량 합계, 2021년은 1주차~50주차 까지의 결과임) 올해는 지난해에 비해 (50주차 현재) 앨범 판매량이  31% 증가한 것으로 나타났습니다. 위 그래프는 2013년부터 2021년까지 관세청에서 집계한 피지컬 앨범 수출액 연도별 추이를 나타낸 것입니다. (2021년은 1월...<span>김진우 수석연구위원 <em>|</em> 2021-12-20</span>]]></content:encoded>
             <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/8EB19445C20DBF4EEA6405143DDC2729.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[앨범 판매량  올해 6천만 장 안팎 될 듯 - 11월 리뷰 (2021)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20009&amp;sgenre=opinion&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20009&amp;sgenre=opinion&amp;search_str=</guid>
-            <pubDate>Fri, 18 Feb 2022 22:59:33 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 11월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월대비 3.9% 감소, 전년 동기 대비 13.5% 감소, 2019년 동기 대비 31.1% 감소한 것으로 나타났습니다.  11월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 전달에 비해 20.6% 감소, 2020년 11월에 비해서도 14.1% 감소한 것으로 조사되었습니다. 1월~11월까지 누적 TOP400기준 판매량은...<span>김진우 수석연구위원 <em>|</em> 2021-12-10</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/6A375AAA7E7D92923B0EBE562D1C5502.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
