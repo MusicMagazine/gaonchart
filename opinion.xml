@@ -4,9 +4,17 @@
         <title>가온차트 ─ 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 06:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 08:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트롯 정말 열풍일까?]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20857&amp;sgenre=opinion&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20857&amp;sgenre=opinion&amp;search_str=</guid>
+            <pubDate>Thu, 26 May 2022 08:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[이번 카드 뉴스에서는 국내 성인가요 시장에 대해 음원과 피지컬 앨범 판매 데이터를 기반으로 살펴보도록 하겠습니다. 연간 TOP400 내 성인가요 곡수는 2018년과 2019년 각각 1곡, 2020년부터 크게 증가해 14곡, 2021년 9곡, 2022년 1월부터 4월까지 7곡인 것으로 나타났습니다. 2018년과 2019년에는 가수 홍진영, 2020년 임영웅, 영탁, 김호중...<span>김진우 수석연구위원 <em>|</em> 2022-05-26</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202205/ED577C663B7E77D92A146B0AA1A095B8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가온지수 2달 연속 상승 - 4월 리뷰(2022)]]></title>
             <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20801&amp;sgenre=opinion&amp;search_str=</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 18 Feb 2022 22:59:33 GMT</pubDate>
             <content:encoded><![CDATA[2021년 연간 음원 이용량 400(1위부터 400위까지 음원 이용량의 합)은 2020년에 비해 10.3% 감소, 팬데믹 이전인 2019년에 비해서도 23.8% 감소한 것으로  나타났습니다. 2021년 연간 앨범 판매량 400은 전년 대비 36.9% 증가한 것으로 조사되었습니다. 카카오 엔터는 400위권 기준 37.2%의 음원 유통 점유율을 기록했으며 주요 음원으로는 아이유의 ′Celebrity′, ′...<span>김진우 수석연구위원 <em>|</em> 2022-01-12</span>]]></content:encoded>
             <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202201/2D2B43A29CCB7920FEDDD9D8802AC543.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앨범 판매량 리뷰 (2021)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20057&amp;sgenre=opinion&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20057&amp;sgenre=opinion&amp;search_str=</guid>
-            <pubDate>Fri, 18 Feb 2022 22:59:33 GMT</pubDate>
-            <content:encoded><![CDATA[위 그래프는 2013년부터 2021년까지 앨범(Physical) 판매량 400을 나타낸 것입니다. (1위부터 400위까지의 판매량 합계, 2021년은 1주차~50주차 까지의 결과임) 올해는 지난해에 비해 (50주차 현재) 앨범 판매량이  31% 증가한 것으로 나타났습니다. 위 그래프는 2013년부터 2021년까지 관세청에서 집계한 피지컬 앨범 수출액 연도별 추이를 나타낸 것입니다. (2021년은 1월...<span>김진우 수석연구위원 <em>|</em> 2021-12-20</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202112/8EB19445C20DBF4EEA6405143DDC2729.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
