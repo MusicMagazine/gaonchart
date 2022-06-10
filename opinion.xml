@@ -4,9 +4,17 @@
         <title>가온차트 ─ 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 09:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 10:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피지컬 앨범  월 1천만 장 육박, 노래방 지수 수직 상승 - 5월 리뷰(2022)]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20922&amp;sgenre=opinion&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20922&amp;sgenre=opinion&amp;search_str=</guid>
+            <pubDate>Fri, 10 Jun 2022 10:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 5월 TOP400 가수별 가온지수 점유율 조사에서 임영웅이 400위권 내 총 19곡을 올려놓으며 (합산)점유율 9.2%를 기록했습니다.    2022년 5월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월보다 3.9% 증가해 3개월 연속 상승세를 유지하며 2021년 수준에 근접한 것으로 나타났습니다.    5월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 전달에 비해...<span>김진우 수석연구위원 <em>|</em> 2022-06-10</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202206/86D8F79294CF50D93FC03CEA0C5D8431.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트롯 정말 열풍일까?]]></title>
             <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20857&amp;sgenre=opinion&amp;search_str=</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 18 Feb 2022 22:59:33 GMT</pubDate>
             <content:encoded><![CDATA[2021년 12월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월대비 3.3% 증가, 전년 동기 대비 4.4% 감소, 2019년 동기 대비 28.1% 감소한 것으로 나타났습니다.  12월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 전달에 비해 18.6% 감소, 2020년 12월에 비해서는 31.1% 증가한 것으로 조사되었습니다. 유럽 지역의 KP...<span>김진우 수석연구위원 <em>|</em> 2022-01-19</span>]]></content:encoded>
             <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202201/FB453FCF434275F5BAAA43CE95B11289.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 연간차트 리뷰 (Annual chart review)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20183&amp;sgenre=opinion&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20183&amp;sgenre=opinion&amp;search_str=</guid>
-            <pubDate>Fri, 18 Feb 2022 22:59:33 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 연간 음원 이용량 400(1위부터 400위까지 음원 이용량의 합)은 2020년에 비해 10.3% 감소, 팬데믹 이전인 2019년에 비해서도 23.8% 감소한 것으로  나타났습니다. 2021년 연간 앨범 판매량 400은 전년 대비 36.9% 증가한 것으로 조사되었습니다. 카카오 엔터는 400위권 기준 37.2%의 음원 유통 점유율을 기록했으며 주요 음원으로는 아이유의 ′Celebrity′, ′...<span>김진우 수석연구위원 <em>|</em> 2022-01-12</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202201/2D2B43A29CCB7920FEDDD9D8802AC543.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
