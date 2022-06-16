@@ -4,9 +4,17 @@
         <title>가온차트 ─ 칼럼</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 08:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 09:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KPOP 산업 정말  혼란기 맞이할까?]]></title>
+            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20952&amp;sgenre=opinion&amp;search_str=</link>
+            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20952&amp;sgenre=opinion&amp;search_str=</guid>
+            <pubDate>Thu, 16 Jun 2022 09:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[이번 카드 뉴스에서는 최근 방탄소년단의 단체 활동 잠정 중단과 관련해 KPOP 산업이 구심점을 잃고 혼란기를 맞이할 것이라는 일부 전망들이 나오고 있는 것에 대해 정말 그렇게 될 것인지 가온차트 데이터 중 피지컬 앨범 판매량 데이터를 기반으로 살펴보도록 하겠습니다. (앨범 판매 데이터는 전 세계 KPOP 팬덤의 규모 등을 파악할 수 있는 가장 기초적인 자료로 볼 수 있겠습니다.) 위 그래프는 연도별 앨...<span>김진우 수석연구위원 <em>|</em> 2022-06-16</span>]]></content:encoded>
+            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202206/2691049346B48291DF1EB35FB498B657.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피지컬 앨범  월 1천만 장 육박, 노래방 지수 수직 상승 - 5월 리뷰(2022)]]></title>
             <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20922&amp;sgenre=opinion&amp;search_str=</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 18 Feb 2022 22:59:33 GMT</pubDate>
             <content:encoded><![CDATA[2022년 1월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월대비 7.1% 감소, 전년 동기 대비 0.4% 증가한 것으로 나타났습니다.  1월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 전달에 비해 5.4% 감소, 2021년 1월에 비해서는 66.9% 증가한 것으로 조사되었습니다.  카카오 엔터가 400위 기준 1월 음원시장에서 유통 점유율 1위를 기록했습니다. 주요 유통 음...<span>김진우 수석연구위원 <em>|</em> 2022-02-11</span>]]></content:encoded>
             <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202202/DE7E29A91B186421604584AA36CEA3BF.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼미더머니 10 전년대비 6% P 증가 - 12월 리뷰 (2021)]]></title>
-            <link>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20226&amp;sgenre=opinion&amp;search_str=</link>
-            <guid>http://www.gaonchart.co.kr/main/section/article/view.gaon?idx=20226&amp;sgenre=opinion&amp;search_str=</guid>
-            <pubDate>Fri, 18 Feb 2022 22:59:33 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 12월 음원 이용량400(1위부터 400위까지 이용량 합계)이 전월대비 3.3% 증가, 전년 동기 대비 4.4% 감소, 2019년 동기 대비 28.1% 감소한 것으로 나타났습니다.  12월 앨범 판매량400(1위부터 400위까지 판매량 합계)이 전달에 비해 18.6% 감소, 2020년 12월에 비해서는 31.1% 증가한 것으로 조사되었습니다. 유럽 지역의 KP...<span>김진우 수석연구위원 <em>|</em> 2022-01-19</span>]]></content:encoded>
-            <enclosure url="http://www.gaonchart.co.kr/upload_images/article/202201/FB453FCF434275F5BAAA43CE95B11289.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
